@@ -13,7 +13,7 @@ rails new APPNAME -m https://raw.github.com/darrin-wortlehock/rails-generators/m
 ## What this template does
 
 #### Ruby Version
-* Sets Ruby 1.9.3 in Gemfile
+* Sets Ruby 2.0.0 in Gemfile
 
 #### Miscellaneous File Cleanup
 * Removes default `app/assets/images/rails.png` image
