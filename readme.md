@@ -7,7 +7,7 @@ After developing conventions for working with Backbone/Marionette, I wrote my ow
 The `marionette-template.rb` is an application template used when creating a new rails application.  To use this application template, in the terminal type:
 
 ```ruby
-rails new APPNAME -m https://raw.github.com/brian-mann/rails-generators/master/marionette-template.rb
+rails new APPNAME -m https://raw.github.com/darrin-wortlehock/rails-generators/master/marionette-template.rb
 ```
 
 ## What this template does
